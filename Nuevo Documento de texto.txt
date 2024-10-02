@@ -1,0 +1,14 @@
+crear un HTML y un css que parezca la web de whatsapp web
+
+
+
+la pagina se compone de dos bloques
+    izquierdo estara compuesto por 2 partes: 
+        tendremos un rectangulo alargado 
+            cabezera -> foto de usuario y de barra de busqueda
+            cuerpo -> chats de amigos
+    derecho
+        esta compuesto por tres partes:
+            cabezera -> foto de usuario y nombre
+            body -> chat con el otro usuario
+            pie -> boton emojis -> barra de escribir -> boton audio
